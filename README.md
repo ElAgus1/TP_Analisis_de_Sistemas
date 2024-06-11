@@ -3,4 +3,5 @@
 Aclaraciones: 
 * UI: Interfaz ded usuario
 * CC: Clase Control
+  
 (Las solo tienen nombre son entidades)
